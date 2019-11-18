@@ -539,7 +539,7 @@ def main():
     #print(clients_checked.head(40))
     #claculation of number of users whose near_shop field relates to a store which is one that is not located in his/her country
     n = n_users_is_near_shop_in_dif_country(clients_checked, stores_checked)
-    print('Number of Users: ', n)
+    print('Amount of users whose near_shop field relates to a store which is one that is not located in his/her country: ', n)
 
     '''
     #Assign to each client the closest shop to his/her home location using METHOD 1
