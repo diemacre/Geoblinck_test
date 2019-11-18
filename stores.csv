@@ -1,0 +1,301 @@
+id,brand,department,latitude,longitude,country
+1,"Macejkovic, Donnelly and Prohaska",Marketing,48.5308416,1.4534246000000002,FR
+2,Weber-Roberts,Marketing,49.189451,-0.8049350000000001,FR
+3,Krajcik and Sons,Business Development,43.0429124,1.9038837,FR
+4,"Konopelski, Schmeler and Jacobs",Human Resources,48.7037515,2.3056035,FR
+5,Lakin LLC,Services,45.601784,5.131041000000001,FR
+6,Champlin-Buckridge,Accounting,47.785421,-3.2602564,FR
+7,"Lemke, Roberts and Koss",Human Resources,47.389214200000005,0.6942885,FR
+8,Stamm and Sons,Legal,44.539432399999995,3.5333133,FR
+9,Robel and Sons,Support,42.3233666,-7.858556200000001,ES
+10,Gutkowski-Ebert,Engineering,48.360695799999995,-0.27170720000000004,FR
+11,"Murray, Bode and Schaefer",Sales,45.052484,4.8398662,FR
+12,Jacobi-Kertzmann,Business Development,44.8870215,3.883654,FR
+13,Beier-Ullrich,Marketing,,,FR
+14,Dickinson-Parisian,Research and Development,48.8981844,2.2478659,FR
+15,Eichmann-Haley,Engineering,48.846652299999995,2.2582125,FR
+16,"Altenwerth, Romaguera and Schmidt",Legal,44.1372925,4.810107,FR
+17,Kulas LLC,Product Management,45.8359543,5.0634248,FR
+18,Ebert-Breitenberg,Business Development,49.25362,6.1641699999999995,FR
+19,Abbott Inc,Accounting,45.1800316,0.7237613,FR
+20,Nader-Marks,Support,43.7441795,2.5119990000000003,FR
+21,Keeling Inc,Product Management,45.288656,4.65065,FR
+22,"Ondricka, Corkery and Rice",Human Resources,46.1839042,-0.4738335,FR
+23,Reynolds Group,Engineering,48.890054,2.2372792,FR
+24,Goldner-Jacobi,Support,48.846652299999995,2.2582125,FR
+25,"Wiza, Breitenberg and Hudson",Services,47.4947984,1.2613018,FR
+26,Kertzmann-Goyette,Marketing,,,FR
+27,Herman Group,Support,48.7276331,2.281825,FR
+28,Heller-Labadie,Business Development,47.5868157,1.3305566999999998,FR
+29,Herman Inc,Human Resources,46.771347799999994,3.8379578000000003,FR
+30,Kihn-Toy,Sales,45.1721845,5.7078052,FR
+31,Bernhard-Kris,Marketing,45.9018536,6.121072,FR
+32,Legros-Gulgowski,Human Resources,48.5347071,7.6370168000000005,FR
+33,"Kiehn, Kilback and Stanton",Marketing,44.539432399999995,3.5333133,FR
+34,White and Sons,Legal,45.126841,-0.662941,FR
+35,"Brekke, Kling and Gottlieb",Support,49.476996,0.1639479,FR
+36,White-Satterfield,Services,48.0724737,7.3469006,FR
+37,"Cremin, Doyle and Waelchi",Services,46.5217941,6.0221735,FR
+38,Corwin-Toy,Accounting,43.616495799999996,3.8308136,FR
+39,Donnelly-Abbott,Marketing,42.45765479999999,-2.4407498,ES
+40,Lueilwitz-Cormier,Human Resources,47.6632745,1.206057,FR
+41,Lang-Senger,Sales,46.3561381,5.8057676,FR
+42,Ledner-Kuhic,Legal,28.4391484,-16.284578500000002,ES
+43,Reilly and Sons,Research and Development,50.3171905,2.801236,FR
+44,"Wiza, Lemke and Funk",Training,49.333258,6.1517599999999995,FR
+45,Doyle-O'Keefe,Training,43.7441795,2.5119990000000003,FR
+46,Wyman Group,Services,46.66789779999999,-1.4087525,FR
+47,Wiegand Group,Marketing,47.785421,-3.2602564,FR
+48,Beer-Bechtelar,Marketing,36.7195014,-4.423996499999999,ES
+49,Bernier Group,Research and Development,43.494573700000004,5.8978018,FR
+50,Price-Wilderman,Support,45.7451347,4.825231099999999,FR
+51,"Block, Bauch and Hettinger",Research and Development,48.8168007,2.6402346000000003,FR
+52,Sipes-Feil,Research and Development,48.076232700000006,-0.7609009,FR
+53,Gibson Inc,Sales,43.2916776,-0.3696612,FR
+54,Cartwright-Labadie,Research and Development,46.907884,6.333388200000001,FR
+55,Parker-Rau,Support,44.915873100000006,-0.2363562,FR
+56,Veum Inc,Engineering,47.30804929999999,5.0488235999999995,FR
+57,Balistreri-Heathcote,Sales,43.494573700000004,5.8978018,FR
+58,Runolfsson Group,Marketing,43.190574299999994,3.0057099,FR
+59,Smitham-Bartoletti,Human Resources,48.241494200000005,-1.8090692,FR
+60,Harber Group,Training,45.1800316,0.7237613,FR
+61,"Murphy, Bahringer and Klocko",Accounting,,,FR
+62,Hayes-Miller,Human Resources,44.9280296,4.8932937999999995,FR
+63,Haley-Koelpin,Legal,49.6220895,0.7501524,FR
+64,Cormier-Gleason,Business Development,48.977948299999994,2.2646872000000005,FR
+65,Turner-Yost,Services,47.5619629,-0.9147447,FR
+66,Ward Group,Legal,49.039076,2.074954,FR
+67,Bashirian Group,Business Development,47.6022755,6.219441799999999,FR
+68,Carroll LLC,Accounting,43.66004,7.214992999999999,FR
+69,Goyette Inc,Research and Development,43.622751799999996,1.5256513999999999,FR
+70,O'Keefe Group,Services,50.5429237,3.0864689999999997,FR
+71,Bernhard-Gerhold,Research and Development,42.930417999999996,1.7243511000000002,FR
+72,Bode-Schowalter,Research and Development,48.7720518,2.4921227000000004,FR
+73,Kuhn LLC,Marketing,,,FR
+74,"Considine, Leuschke and Luettgen",Legal,47.3752386,-0.8453268,FR
+75,"Halvorson, Tromp and Farrell",Product Management,43.1553222,5.8998183,FR
+76,"Gutmann, Heathcote and Reinger",Research and Development,49.02261729999999,1.1394024,FR
+77,Stracke Group,Legal,43.8006906,5.814766400000001,FR
+78,Sipes-Schroeder,Marketing,48.8335842,2.3757658999999998,FR
+79,"Hudson, Huel and Graham",Legal,48.9648089,2.6986517000000005,FR
+80,Conroy-Heathcote,Human Resources,48.6939078,2.3491182,FR
+81,Renner and Sons,Sales,45.3639886,5.5949365,FR
+82,Lang Inc,Legal,45.396383,4.325896299999999,FR
+83,"Stokes, Ryan and Heidenreich",Product Management,49.1025395,2.0362602,FR
+84,Schimmel and Sons,Engineering,49.1025395,2.0362602,FR
+85,Rippin Group,Marketing,48.616966399999995,2.4062650000000003,FR
+86,Boehm LLC,Legal,48.257657200000004,6.414021400000001,FR
+87,Beer Group,Research and Development,50.4734865,2.9394741,FR
+88,"Boehm, Daniel and Kassulke",Legal,46.259611,5.653268,FR
+89,"Bode, Wunsch and Wunsch",Support,43.963916999999995,4.796809,FR
+90,Batz-Pouros,Marketing,43.1283145,5.9294606,FR
+91,"Becker, Schamberger and Welch",Legal,43.494573700000004,5.8978018,FR
+92,Kozey-Ankunding,Human Resources,48.6277459,2.4381665,FR
+93,Windler Inc,Sales,50.4734865,2.9394741,FR
+94,Feil and Sons,Marketing,48.75797120000001,2.3071289,FR
+95,Labadie-Farrell,Research and Development,48.627474,2.5921846,FR
+96,Hilpert Inc,Engineering,44.255137,5.262028,FR
+97,Cassin LLC,Research and Development,45.297760499999995,2.5135985,FR
+98,"Bernhard, Smith and Rempel",Sales,45.39771,4.77996,FR
+99,Bartoletti and Sons,Accounting,36.7195014,-4.423996499999999,ES
+100,"Lemke, Strosin and Emmerich",Marketing,43.81771679999999,4.343135,FR
+101,Yundt Inc,Legal,36.5052612,-6.2761016,ES
+102,"Bernhard, Pouros and Langosh",Research and Development,46.3194856,-0.4546217000000001,FR
+103,Sauer LLC,Marketing,45.1721845,5.7078052,FR
+104,"Bosco, Turner and Weber",Services,48.9003986,2.2166408,FR
+105,"Marks, Kris and Runte",Marketing,47.722961600000005,0.0297575,FR
+106,"Johnson, Hickle and Upton",Accounting,46.9874505,3.1506645,FR
+107,Denesik-Hermann,Marketing,42.9782326,-7.5626411,ES
+108,Kuphal Inc,Accounting,45.764339,4.768427,FR
+109,Kozey Group,Marketing,48.7980515,2.4882911,FR
+110,"Corwin, Lebsack and Howell",Engineering,47.8060989,7.3372459,FR
+111,Orn Group,Training,47.9962116,-4.1020654,FR
+112,Satterfield-Rosenbaum,Business Development,41.504488200000004,-5.7434763,ES
+113,Schoen-Brown,Human Resources,45.6326302,4.909835,FR
+114,Anderson-Swaniawski,Training,48.846652299999995,2.2582125,FR
+115,Ernser LLC,Training,45.106849,-0.6297654,FR
+116,"O'Connell, O'Keefe and Johns",Human Resources,43.8324929,4.3662320999999995,FR
+117,VonRueden LLC,Engineering,48.257657200000004,6.414021400000001,FR
+118,Hamill Group,Research and Development,45.106849,-0.6297654,FR
+119,Abbott and Sons,Accounting,43.494573700000004,5.8978018,FR
+120,Osinski-Abbott,Services,49.18455170000001,-0.3553901,FR
+121,Herman LLC,Research and Development,49.0240609,2.4633136,FR
+122,Mueller LLC,Engineering,43.616783700000006,7.0125073,FR
+123,Corkery-Hintz,Human Resources,48.9378251,2.1570562,FR
+124,"Hilll, Becker and Koss",Product Management,49.336000000000006,4.0935629,FR
+125,"Rohan, Trantow and Upton",Engineering,48.8066526,2.4725036,FR
+126,"Kassulke, Conn and Padberg",Legal,48.8753655,2.3405004000000003,FR
+127,"Schulist, Treutel and Kovacek",Accounting,47.5113895,1.820875,FR
+128,Walker Group,Services,45.199034999999995,5.1108709999999995,FR
+129,Haley and Sons,Accounting,48.8120404,2.2718631,FR
+130,"Lubowitz, Weimann and Kuvalis",Human Resources,45.7646846,4.861724,FR
+131,Ziemann Group,Research and Development,44.1372925,4.810107,FR
+132,"Hahn, Fritsch and Monahan",Accounting,43.622751799999996,1.5256513999999999,FR
+133,Stracke LLC,Marketing,43.33628220000001,3.2188961,FR
+134,"Feil, Oberbrunner and Johnson",Services,48.9268168,2.3306851,FR
+135,"Fay, Mosciski and Parisian",Sales,50.4217341,2.8830762,FR
+136,Schuster and Sons,Research and Development,45.297760499999995,2.5135985,FR
+137,Bernhard-Wilkinson,Accounting,43.4903429,5.3378155,FR
+138,"Koepp, Schmeler and Schaefer",Services,48.8179158,1.9672209999999999,FR
+139,Satterfield Group,Accounting,43.5414515,-5.8855146,ES
+140,"Heller, Considine and King",Services,43.813962700000005,1.9593782,FR
+141,Koepp-Johnston,Legal,48.8357169,2.2754517000000005,FR
+142,Rosenbaum and Sons,Product Management,50.693081799999995,3.1845673,FR
+143,Nikolaus-Schaefer,Services,42.660251,-5.5722297,ES
+144,Prohaska LLC,Sales,48.562598799999996,3.3093771,FR
+145,Treutel-Casper,Engineering,47.785421,-3.2602564,FR
+146,"Bergstrom, Kohler and Boyer",Training,43.494573700000004,5.8978018,FR
+147,Fisher Inc,Product Management,28.4391484,-16.284578500000002,ES
+148,Terry Inc,Support,47.8225694,0.3908219,FR
+149,Hoppe-Welch,Accounting,49.285973,-0.4889547000000001,FR
+150,Kihn-Halvorson,Accounting,43.834534999999995,5.0436629,FR
+151,"Bahringer, Kiehn and Wuckert",Training,50.2837307,2.7425682,FR
+152,McCullough LLC,Support,43.494573700000004,5.8978018,FR
+153,"Bernhard, Grant and Collins",Accounting,44.255137,5.262028,FR
+154,Gutkowski-Wintheiser,Marketing,,,FR
+155,"Rath, Grant and Koelpin",Research and Development,43.494573700000004,5.8978018,FR
+156,"Ruecker, Dibbert and Mosciski",Support,43.66004,7.214992999999999,FR
+157,Bradtke Inc,Business Development,43.4968733,-1.4703339,FR
+158,Goodwin Group,Support,43.586203999999995,1.6250848999999998,FR
+159,"Koch, Satterfield and Schinner",Training,45.9120061,6.1549499,FR
+160,Gulgowski LLC,Training,47.594843,1.3155028,FR
+161,Beatty-Stanton,Business Development,48.7700185,2.3508225,FR
+162,"Anderson, Smith and Brakus",Engineering,48.9005909,2.5197726,FR
+163,"Smith, Barton and Shields",Accounting,49.0096906,2.5479244999999997,FR
+164,Weimann LLC,Human Resources,38.994349,-1.8585424,ES
+165,Mayer-Wintheiser,Services,49.03448529999999,2.2178782999999997,FR
+166,Stark Group,Business Development,47.407461,-1.1875200000000001,FR
+167,Powlowski and Sons,Research and Development,48.6277459,2.4381665,FR
+168,"Kuhlman, Bartoletti and Dicki",Support,43.411002,5.043497900000001,FR
+169,VonRueden Inc,Product Management,39.55583920000001,2.5941238999999996,ES
+170,"Fritsch, Padberg and Spinka",Support,43.7441795,2.5119990000000003,FR
+171,Dach Group,Research and Development,43.2916776,-0.3696612,FR
+172,Auer-Predovic,Accounting,47.859986,-3.6006682999999997,FR
+173,MacGyver-Luettgen,Sales,44.7016194,4.5805038,FR
+174,Herzog-Jacobson,Research and Development,48.892701,2.233089,FR
+175,"Keeling, Schamberger and Batz",Legal,48.8276508,1.9697936000000003,FR
+176,Hegmann and Sons,Sales,43.494573700000004,5.8978018,FR
+177,Mosciski Inc,Business Development,43.6943099,2.0376775,FR
+178,"Schneider, Dickinson and O'Hara",Product Management,43.4968733,-1.4703339,FR
+179,Mertz Group,Human Resources,47.2550409,-1.5401497,FR
+180,Veum Group,Accounting,,,ES
+181,"Schiller, Dibbert and O'Conner",Research and Development,47.4861398,-1.7442022000000001,FR
+182,"O'Keefe, Connelly and Schneider",Product Management,45.632343,5.112589,FR
+183,Ankunding and Sons,Business Development,49.476996,0.1639479,FR
+184,Walter-Hilll,Training,48.861050399999996,2.3237083999999997,FR
+185,Raynor-Lakin,Human Resources,48.5966574,7.774413900000001,FR
+186,Marquardt-Maggio,Business Development,48.3236333,6.063383,FR
+187,Mueller-McCullough,Marketing,45.8359543,5.0634248,FR
+188,Cormier Group,Accounting,49.2803655,-0.2062549,FR
+189,"McLaughlin, Lesch and Brakus",Business Development,45.180547999999995,0.768949,FR
+190,"Kemmer, Donnelly and Boyer",Research and Development,44.926348600000004,2.4396467,FR
+191,Quigley-Tillman,Human Resources,43.494573700000004,5.8978018,FR
+192,Terry-Botsford,Business Development,49.1931313,-0.3907558,FR
+193,Ullrich and Sons,Sales,28.132879600000003,-15.439307399999999,ES
+194,"Schamberger, Conn and Walsh",Training,50.274891499999995,3.9727365,FR
+195,Hand LLC,Training,49.0194225,2.4613377,FR
+196,"Hagenes, Hackett and Johns",Legal,42.229169,-8.7026991,ES
+197,Torp Inc,Services,50.3171905,2.801236,FR
+198,Waters-Hoppe,Accounting,44.0643415,1.1011089,FR
+199,Schuster-Becker,Support,47.226530700000005,2.0598182,FR
+200,Turner LLC,Product Management,49.0871049,0.5957159000000001,FR
+201,Kautzer-Hahn,Services,36.8414494,-2.4567058999999998,ES
+202,"Oberbrunner, Deckow and Mraz",Marketing,45.168985799999994,1.5588851000000001,FR
+203,Moen Inc,Support,50.274891499999995,3.9727365,FR
+204,"Jenkins, Hirthe and Cronin",Sales,48.695223,2.1901669999999998,FR
+205,Lockman LLC,Research and Development,49.4263976,2.0887457,FR
+206,Langworth-Brakus,Business Development,43.6943099,2.0376775,FR
+207,"Bernhard, Price and Cruickshank",Sales,44.7721717,-0.6995220999999999,FR
+208,"Schaefer, Fritsch and Wisoky",Marketing,48.076232700000006,-0.7609009,FR
+209,Lynch-Mertz,Support,43.7441795,2.5119990000000003,FR
+210,"Glover, Funk and Kutch",Legal,43.7441795,2.5119990000000003,FR
+211,Deckow-Legros,Engineering,49.476996,0.1639479,FR
+212,Bergnaum-Gerhold,Sales,44.8055893,-0.630617,FR
+213,Will and Sons,Engineering,43.275207,1.9452714,FR
+214,Cronin-Wolf,Sales,47.9962116,-4.1020654,FR
+215,Graham Group,Product Management,47.3599545,6.3904955,FR
+216,"Hagenes, Rice and Herman",Legal,48.689836,6.17445,FR
+217,Schumm-Kautzer,Product Management,48.509075,-2.7383235,FR
+218,Hamill and Sons,Research and Development,45.521519,3.5276642,FR
+219,"Mosciski, West and King",Legal,39.463861,-0.36895079999999997,ES
+220,Hoppe Inc,Human Resources,43.0429124,1.9038837,FR
+221,Moen-D'Amore,Engineering,48.5851876,7.7342943,FR
+222,Fisher-Greenholt,Legal,45.521519,3.5276642,FR
+223,Howe-Christiansen,Training,43.9307146,4.8743415,FR
+224,"Wiza, Reichel and Tromp",Accounting,47.594843,1.3155028,FR
+225,Smith and Sons,Services,46.3194856,-0.4546217000000001,FR
+226,Boehm-Grady,Engineering,46.67047120000001,-1.4244076,FR
+227,Koch Inc,Marketing,50.334011,3.4609550000000002,FR
+228,"Frami, Mertz and Moore",Support,44.025555,1.378056,FR
+229,Mayer and Sons,Accounting,48.039542499999996,-0.705495,FR
+230,"Volkman, Hane and Grant",Engineering,44.208171,0.620903,FR
+231,"Rohan, Ankunding and Will",Engineering,48.689836,6.17445,FR
+232,Conroy-Ebert,Engineering,48.891587,2.2408938,FR
+233,"Weber, Mertz and Oberbrunner",Training,47.3752386,-0.8453268,FR
+234,"Koss, Ritchie and Barton",Sales,43.97637460000001,4.9052738,FR
+235,Dooley Inc,Research and Development,46.1167,3.4167,FR
+236,"Smith, MacGyver and Gaylord",Legal,44.208171,0.620903,FR
+237,"Koepp, Terry and Wunsch",Marketing,43.7786945,3.7264439,FR
+238,"Gusikowski, Schultz and Sauer",Services,49.119969899999994,6.1650769,FR
+239,Mueller-Pfannerstill,Business Development,,,FR
+240,"Hane, Collins and Jones",Marketing,43.494573700000004,5.8978018,FR
+241,Fay Inc,Research and Development,48.3909721,-4.4854059,FR
+242,O'Hara-Gulgowski,Accounting,43.494573700000004,5.8978018,FR
+243,"Robel, Wuckert and Kshlerin",Research and Development,46.5838069,0.3350126,FR
+244,"Donnelly, Upton and King",Research and Development,46.66789779999999,-1.4087525,FR
+245,Mohr Group,Support,48.9557844,2.8884608,FR
+246,Zemlak Group,Marketing,45.521519,3.5276642,FR
+247,"Kovacek, Swaniawski and Glover",Legal,50.2837307,2.7425682,FR
+248,Swift and Sons,Legal,48.85883629999999,2.3477753,FR
+249,Medhurst and Sons,Marketing,48.360695799999995,-0.27170720000000004,FR
+250,Hegmann-Sauer,Sales,,,FR
+251,"Ritchie, Bechtelar and Stanton",Engineering,48.305818,4.024099,FR
+252,Jacobi LLC,Sales,47.2550409,-1.5401497,FR
+253,Becker Inc,Product Management,,,FR
+254,"Wilkinson, O'Reilly and Baumbach",Human Resources,48.759003,2.323941,FR
+255,Treutel Group,Research and Development,,,FR
+256,Weimann-Wiza,Business Development,45.106849,-0.6297654,FR
+257,Streich-Moore,Engineering,48.9194633,2.2987001,FR
+258,Harber-Lebsack,Accounting,43.494573700000004,5.8978018,FR
+259,"Grant, Prosacco and Gutmann",Engineering,45.7608815,4.26286,FR
+260,"Nader, Goyette and Schaden",Marketing,44.6603148,-1.1648341,FR
+261,Klein-O'Reilly,Marketing,46.647310499999996,0.813275,FR
+262,Heathcote-Hudson,Training,46.3491846,-1.0849968,FR
+263,Mueller Group,Training,48.64433579999999,7.721216900000001,FR
+264,Bailey LLC,Legal,41.6543565,0.6251541,ES
+265,Schroeder-Rosenbaum,Business Development,43.3011387,-0.3861522,FR
+266,"Zemlak, Ruecker and Ledner",Product Management,43.494573700000004,5.8978018,FR
+267,Ankunding-Davis,Research and Development,50.6140977,3.1244315,FR
+268,"Gutkowski, Pouros and Davis",Business Development,45.297760499999995,2.5135985,FR
+269,McLaughlin Group,Human Resources,44.3543084,4.0664945,FR
+270,Quitzon Group,Human Resources,48.689836,6.17445,FR
+271,"Dickens, Block and Terry",Research and Development,41.6465777,-4.7497457,ES
+272,Lesch and Sons,Legal,47.3036891,2.6981496,FR
+273,Kunze-Marks,Accounting,49.369115,3.3380919999999996,FR
+274,Sporer-Harber,Product Management,48.7663087,2.4119232000000004,FR
+275,Rogahn-Kertzmann,Human Resources,47.6022755,6.219441799999999,FR
+276,Wiegand-Ziemann,Human Resources,47.221906,-1.6057379999999999,FR
+277,Jacobs LLC,Support,48.9323908,2.4774664,FR
+278,Stokes LLC,Marketing,43.7441795,2.5119990000000003,FR
+279,Ruecker-Bartoletti,Product Management,43.4880374,-8.2310576,ES
+280,Cronin LLC,Sales,49.144136200000005,6.1519975,FR
+281,Hilll Inc,Sales,,,FR
+282,Adams-Schaefer,Research and Development,48.861050399999996,2.3237083999999997,FR
+283,"Blick, Schoen and Fahey",Sales,49.1025395,2.0362602,FR
+284,"Greenfelder, Beatty and Hessel",Marketing,47.99561729999999,0.19244589999999998,FR
+285,"Hills, Pfannerstill and Hane",Business Development,49.1025395,2.0362602,FR
+286,Welch-Christiansen,Training,41.628662299999995,-0.8744828000000001,ES
+287,"Ortiz, McKenzie and Will",Sales,49.0096906,2.5479244999999997,FR
+288,Luettgen Inc,Research and Development,45.1905186,0.7423124,FR
+289,Green and Sons,Accounting,48.5202109,3.6973504,FR
+290,Auer Group,Marketing,49.1606317,6.9179709,FR
+291,McDermott-Price,Human Resources,45.742007,3.199309,FR
+292,Stamm-Lynch,Research and Development,45.742007,3.199309,FR
+293,Stracke-Bode,Training,48.691081700000005,2.3741324,FR
+294,"Orn, Wilkinson and Kozey",Product Management,43.650420700000005,1.3412205,FR
+295,"Bode, Runolfsdottir and Bailey",Engineering,49.48153,0.10821099999999999,FR
+296,Smith LLC,Sales,47.2550409,-1.5401497,FR
+297,Kovacek Group,Human Resources,47.35913660000001,2.8002946,FR
+298,"Jacobi, Stracke and Keebler",Marketing,43.629760299999994,0.5815411,FR
+299,"Sipes, Heidenreich and VonRueden",Marketing,43.494573700000004,5.8978018,FR
+300,Labadie-Abshire,Engineering,45.9018536,6.121072,FR
